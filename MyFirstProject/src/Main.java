@@ -1,6 +1,6 @@
 import java.util.Scanner;
 public class Main {
-    public static void main(String[] args) {
+    public static void main(StringInterpolation[] args) {
 //This is my first java program
         /*
         * This is a multiline comment
@@ -30,7 +30,7 @@ public class Main {
 
         Scanner scanner = new Scanner(System.in);
         System.out.println("What is your name?");
-        String name = scanner.nextLine();
+       String name = scanner.nextLine();
         System.out.println("Hello" + name);
 
         System.out.println("What is your age?");

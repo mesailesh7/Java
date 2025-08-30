@@ -1,6 +1,6 @@
 import java.util.Random;
 public class ArithemeticOperators {
-    public static void main(String[] args) {
+    public static void main(StringInterpolation[] args) {
         Random rand = new Random();
 
         boolean isHeads;
